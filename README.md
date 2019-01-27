@@ -1,6 +1,6 @@
 # Using Jest library is in practice
 
-This is a demo project in which it is desribed how to properly test Javascript code using Jest library
+This is a demo project in which it is desribed how to properly test TypeScript code using Jest library
 
 ## Running the tests
 
